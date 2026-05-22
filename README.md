@@ -35,8 +35,8 @@ In this lab, you will design a small office/home office (SOHO) network using the
   b. In the terminal window type ping 192.168.1.1.  
   c. Press Enter.
 
-!(Canvas)[/Screenshot_28.png]
-!(Windows)[/Screenshot_29.png]
+!(Canvas)[Screenshot_28.png]  
+!(Windows)[Screenshot_29.png]
 
 Q1. Which network is the IP address assigned to this computer on?  
   Your answer:  
